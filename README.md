@@ -4,6 +4,7 @@ feature engineering:
 - tranform raw data to meaningful information for model
 - good features also rely on domain knowledge
 
+* The “quantmod”, “TTR” and “PerformanceAnalytics” libraries are the three most used R libraries for quantitative finance
 
 goal: 
 - develop features, rationale
